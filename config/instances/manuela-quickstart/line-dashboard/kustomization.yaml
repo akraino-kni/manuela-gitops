@@ -16,7 +16,7 @@ bases:
 
 images:
 - name: line-dashboard
-  newName: quay.io/akraino/iot-frontend
+  newName: quay.io/akraino-kni/iot-frontend
   newTag: quickstart
 
 configMapGenerator:

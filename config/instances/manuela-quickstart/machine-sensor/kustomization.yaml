@@ -25,5 +25,5 @@ configMapGenerator:
 
 images:
 - name: machine-sensor
-  newName: quay.io/akraino/iot-software-sensor
+  newName: quay.io/akraino-kni/iot-software-sensor
   newTag: quickstart
